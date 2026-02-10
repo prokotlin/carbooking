@@ -1,0 +1,8 @@
+
+{
+  "name": "Car Booking Manager",
+  "description": "A professional car booking management system for tracking schedules, payments, and automatic archival of expired trips.",
+  "requestFramePermissions": [
+    "notification"
+  ]
+}
